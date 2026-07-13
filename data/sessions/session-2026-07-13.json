@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-07-13T09:06:28.532Z",
+  "savedAt": "2026-07-13T10:12:49.866Z",
   "country": "kuwait",
   "context": {
     "company": "",
@@ -7,7 +7,7 @@
     "market": "",
     "extra": ""
   },
-  "engine": "openrouter",
+  "engine": "groq",
   "runCount": {},
-  "totalTokens": 52166
+  "totalTokens": 0
 }
