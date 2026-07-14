@@ -1,0 +1,13 @@
+{
+  "savedAt": "2026-07-14T09:47:40.074Z",
+  "country": "kuwait",
+  "context": {
+    "company": "",
+    "industry": "",
+    "market": "",
+    "extra": ""
+  },
+  "engine": "groq",
+  "runCount": {},
+  "totalTokens": 3069
+}
