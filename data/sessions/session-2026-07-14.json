@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-07-14T09:48:49.045Z",
+  "savedAt": "2026-07-14T09:56:18.792Z",
   "country": "kuwait",
   "context": {
     "company": "",
@@ -7,7 +7,7 @@
     "market": "",
     "extra": ""
   },
-  "engine": "groq",
+  "engine": "gemini",
   "runCount": {},
-  "totalTokens": 10578
+  "totalTokens": 19468
 }
