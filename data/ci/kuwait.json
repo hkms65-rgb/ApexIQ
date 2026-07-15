@@ -1,5 +1,5 @@
 {
-  "savedAt": "2026-07-14T09:58:52.111Z",
+  "savedAt": "2026-07-15T10:11:05.562Z",
   "country": "kuwait",
   "data": {
     "geo_cca2": "KW",
@@ -155,6 +155,204 @@
     "work_private_pct_est": "58% (est.)",
     "work_self_pct_est": "~7% (est.)",
     "work_retired_est": "N/A",
-    "work_informal_est": "Low-moderate informal economy"
+    "work_informal_est": "Low-moderate informal economy",
+    "event_calendar": {
+      "country": "kuwait",
+      "generated": 1784105101998,
+      "events": [
+        {
+          "name": "New Year's Day",
+          "date": "Jan 1",
+          "cat": "worldwide",
+          "retail_signal": "high"
+        },
+        {
+          "name": "Valentine's Day",
+          "date": "Feb 14",
+          "cat": "worldwide",
+          "retail_signal": "high"
+        },
+        {
+          "name": "International Women's Day",
+          "date": "Mar 8",
+          "cat": "worldwide",
+          "retail_signal": "medium"
+        },
+        {
+          "name": "Labour Day",
+          "date": "May 1",
+          "cat": "worldwide",
+          "retail_signal": "medium"
+        },
+        {
+          "name": "Mother's Day",
+          "date": "May (2nd Sun)",
+          "cat": "worldwide",
+          "retail_signal": "high"
+        },
+        {
+          "name": "Father's Day",
+          "date": "Jun (3rd Sun)",
+          "cat": "worldwide",
+          "retail_signal": "high"
+        },
+        {
+          "name": "Singles Day (11.11)",
+          "date": "Nov 11",
+          "cat": "worldwide",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "White Friday / Black Friday",
+          "date": "Nov (4th Fri)",
+          "cat": "worldwide",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "Cyber Monday",
+          "date": "Nov (Mon after Black Friday)",
+          "cat": "worldwide",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "New Year's Eve",
+          "date": "Dec 31",
+          "cat": "worldwide",
+          "retail_signal": "high"
+        },
+        {
+          "name": "World Cup 2026",
+          "date": "Jun–Jul 2026",
+          "cat": "worldwide",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "Breast Cancer Awareness Month",
+          "date": "October",
+          "cat": "worldwide",
+          "retail_signal": "medium"
+        },
+        {
+          "name": "Spring Season",
+          "date": "Mar–May",
+          "cat": "seasonal",
+          "retail_signal": "medium"
+        },
+        {
+          "name": "Summer Season",
+          "date": "Jun–Aug",
+          "cat": "seasonal",
+          "retail_signal": "high"
+        },
+        {
+          "name": "Summer Sales",
+          "date": "Jul",
+          "cat": "seasonal",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "Autumn Season",
+          "date": "Sep–Nov",
+          "cat": "seasonal",
+          "retail_signal": "medium"
+        },
+        {
+          "name": "Winter Season",
+          "date": "Dec–Feb",
+          "cat": "seasonal",
+          "retail_signal": "high"
+        },
+        {
+          "name": "Year-End / Winter Sales",
+          "date": "Dec–Jan",
+          "cat": "seasonal",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "Back to School",
+          "date": "Aug–Sep",
+          "cat": "academic",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "School Uniform & Supplies Season",
+          "date": "Aug",
+          "cat": "academic",
+          "retail_signal": "high"
+        },
+        {
+          "name": "University Graduation Season",
+          "date": "Jun",
+          "cat": "academic",
+          "retail_signal": "high"
+        },
+        {
+          "name": "School Midterm Break",
+          "date": "Oct / Feb",
+          "cat": "academic",
+          "retail_signal": "medium"
+        },
+        {
+          "name": "Monthly Government Payday",
+          "date": "25th–last day each month",
+          "cat": "pay_cycle",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "Monthly Private Sector Payday",
+          "date": "Last working day",
+          "cat": "pay_cycle",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "Annual Bonus Season",
+          "date": "Dec–Jan",
+          "cat": "pay_cycle",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "National Day / Independence Day (Public Holiday)",
+          "date": "Varies",
+          "cat": "holiday",
+          "retail_signal": "high"
+        },
+        {
+          "name": "Bank Holiday Long Weekends",
+          "date": "Varies",
+          "cat": "holiday",
+          "retail_signal": "medium"
+        },
+        {
+          "name": "National Day Parade / Celebration",
+          "date": "Varies",
+          "cat": "parade",
+          "retail_signal": "high"
+        },
+        {
+          "name": "Marathon / Sports Event (City)",
+          "date": "Varies",
+          "cat": "parade",
+          "retail_signal": "high"
+        },
+        {
+          "name": "Wedding Season Peak",
+          "date": "Variable",
+          "cat": "cultural",
+          "retail_signal": "very_high"
+        },
+        {
+          "name": "Corporate Gifting Season",
+          "date": "Nov–Dec",
+          "cat": "cultural",
+          "retail_signal": "high"
+        }
+      ]
+    },
+    "gdpam_pestle": {
+      "retail": {
+        "ts": 1784106465658,
+        "report": "GDPAM: ApexIQ v19 — Global Dynamic PESTLE Analysis Module\n\n**COUNTRY:** Kuwait | **SECTOR:** Retail | **HORIZON:** 3-year strategic | **LENS:** Business Expansion | **DEPTH:** Strategic\n\n---\n\n### Political Dimension\n\n*   **CURRENT STATE:** Kuwait is a constitutional monarchy committed to \"New Kuwait 2035,\" aiming for economic diversification and private sector growth. FDI is $0.6B, reflecting a cautious but open approach. Geopolitically, Kuwait maintains neutrality in a volatile region.\n*   **TREND VECTOR:** **Stable**. Rationale: Despite occasional internal political dynamics, the fundamental government structure and long-term strategic vision remain consistent. Regional neutrality provides some insulation.\n*   **"
+      }
+    }
   }
 }
