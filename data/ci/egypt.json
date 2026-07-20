@@ -1,0 +1,1804 @@
+{
+  "savedAt": "2026-07-20T13:31:32.375Z",
+  "country": "Egypt",
+  "data": {
+    "geo_cca2": "EG",
+    "geo_name": "Egypt",
+    "geo_capital": "Cairo",
+    "geo_region": "Middle East",
+    "geo_subregion": "Arab States",
+    "geo_continent": "Asia",
+    "geo_area": "1,002,450 km²",
+    "geo_population": "N/A",
+    "geo_population_raw": 0,
+    "geo_landlocked": "Coastal/Island",
+    "geo_borders": 3,
+    "geo_border_countries": [
+      "ISR",
+      "LBY",
+      "SDN"
+    ],
+    "geo_timezones": "UTC+3",
+    "geo_languages": "Arabic",
+    "geo_currency": "Egyptian Pound (EGP)",
+    "geo_currency_code": "EGP",
+    "geo_latlng": [
+      26.82,
+      30.8
+    ],
+    "geo_flag": "",
+    "geo_un": "UN Member",
+    "demo_iso": "EG",
+    "demo_pop_raw": 118365995,
+    "demo_pop": "118.37M",
+    "demo_growth": "1.6%",
+    "demo_0_14": "31.6%",
+    "demo_15_64": "63.2%",
+    "demo_65p": "5.3%",
+    "demo_fertility": "2.73 births/woman",
+    "demo_birth_rate": "20.9 per 1,000",
+    "demo_death_rate": "5.5 per 1,000",
+    "demo_life_exp": "71.8 yrs",
+    "demo_urban": "42.9%",
+    "demo_rural": "57.1%",
+    "demo_density": "115 /km²",
+    "demo_dep_ratio": "58.3",
+    "demo_infant_mort": "20.8 per 1,000",
+    "demo_net_migration": "-57,305",
+    "demo_annual_births": "2,475,625",
+    "demo_age_0_14_pct": 31.5562617099458,
+    "demo_age_15_64_pct": 63.1725431918709,
+    "demo_age_65p_pct": 5.27119509818337,
+    "seg_0_4": 13820197,
+    "seg_5_17": 23531686,
+    "seg_18_24": 17198206,
+    "seg_25_44": 32900916,
+    "seg_45_64": 24675687,
+    "seg_65p": 6239303,
+    "econ_gdp": "$365.3B",
+    "econ_gdp_raw": 365254630179.737,
+    "econ_gdp_pc_ppp": "$20,204",
+    "econ_gdp_growth": "4.4%",
+    "econ_inflation": "14.1%",
+    "econ_gini": "28.5",
+    "econ_services": "47.3%",
+    "econ_industry": "32.1%",
+    "econ_agriculture": "16.6%",
+    "econ_fdi": "$15.5B",
+    "econ_debt": "85.8% GDP",
+    "econ_current_acct": "-3.8% GDP",
+    "econ_income_tier": "Lower-Middle/Low",
+    "econ_gdp_pc_usd": "$3,086",
+    "econ_exports": "19.8% of GDP",
+    "econ_imports": "31.5% of GDP",
+    "econ_trade_balance": "-11.7% GDP",
+    "econ_tax_revenue": "12.5% of GDP",
+    "econ_govt_exp": "30.2% of GDP",
+    "econ_remittances": "11.37% of GDP",
+    "econ_poverty_215": "1.4%",
+    "econ_poverty_685": "7.1%",
+    "econ_household_spend": "$3,747/cap",
+    "econ_wage_workers": "73.0%",
+    "econ_electricity_access": "100.0%",
+    "econ_electricity_kwh": "1,493 kWh/cap",
+    "econ_reserves": "$48.9B",
+    "climate_latlng": [
+      26.2540493,
+      29.2675469
+    ],
+    "climate_monthly_temp": [
+      14.5,
+      12.8,
+      19.3,
+      24.3,
+      27.2,
+      29.4,
+      32.3,
+      31.9,
+      28.1,
+      24.2,
+      19.2,
+      13.9
+    ],
+    "climate_monthly_rain": [
+      0,
+      1.7,
+      0,
+      0.3,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0.9,
+      1.7
+    ],
+    "climate_max_temp": "32.3°C",
+    "climate_min_temp": "12.8°C",
+    "climate_avg_temp": "23.1°C",
+    "climate_annual_rain": "5mm",
+    "climate_koppen": "Arid/Desert",
+    "climate_peak_heat": "Jul",
+    "climate_peak_rain": "Feb",
+    "urban_largest_city_pct": "45.4% urban pop",
+    "urban_slum_pct": "3.8%",
+    "urban_growth": "1.8%/yr",
+    "urban_apt_pct": 39,
+    "urban_house_pct": 61,
+    "urban_dominant_type": "House/Villa dominant",
+    "urban_garden_prevalence": "High (garden/yard common)",
+    "urban_parking": "High car dependency",
+    "urban_delivery_complexity": "Standard residential delivery",
+    "culture_summary": "Egypt, officially the Arab Republic of Egypt, is a country spanning the northeast corner of Africa and southwest corner of Asia via the Sinai Peninsula. It is bordered by the Mediterranean Sea to the north, Palestine and Israel to the northeast, the Red Sea to the east, Sudan and the Sahara to the south, and Libya to the west. The Gulf of Aqaba in ",
+    "culture_languages": "N/A",
+    "culture_collectivism": null,
+    "culture_gift": null,
+    "culture_calendar": [],
+    "culture_region_bloc": "N/A",
+    "culture_dietary": null,
+    "culture_dress": null,
+    "commerce_mall_est": 592,
+    "commerce_retail_type": "Mixed mall + street retail",
+    "commerce_has_traditional": null,
+    "commerce_has_souk": null,
+    "commerce_cbd_cities": "Cairo",
+    "commerce_online_potential": "Growing e-commerce",
+    "commerce_gla_per_capita": "Moderate (0.3-1.0m²/person)",
+    "commerce_financial_districts": null,
+    "commerce_wholesale": null,
+    "commerce_free_zones": null,
+    "digital_internet": "74.6%",
+    "digital_mobile": "97 per 100",
+    "digital_broadband": "11.7 per 100",
+    "digital_logistics": "3.10/5",
+    "digital_banked": "43.1%",
+    "digital_ecommerce_signal": "Growing digital market",
+    "digital_fixed_tel": "N/A",
+    "commerce_ease_biz_rank": "N/A",
+    "work_participation": "44.6%",
+    "work_participation_f": "18.5%",
+    "work_participation_m": "70.5%",
+    "work_unemployment": "6.8%",
+    "work_youth_unemployment": "18.3%",
+    "work_agri_pct": "17.5%",
+    "work_industry_pct": "29.4%",
+    "work_services_pct": "53.1%",
+    "work_gov_pct_est": "28% (est.)",
+    "work_private_pct_est": "46% (est.)",
+    "work_self_pct_est": "~12% (est.)",
+    "work_retired_est": "N/A",
+    "work_informal_est": "Low-moderate informal economy",
+    "enrich": {
+      "cities": [
+        {
+          "n": "Cairo",
+          "pn": 9500000,
+          "pd": 11000000,
+          "pct": 9.5,
+          "ppi": 65,
+          "nat": {
+            "kw": 0.1,
+            "sa": 0.1,
+            "ae": 0.2,
+            "we": 0.5,
+            "ea": 0.1,
+            "af": 0
+          },
+          "hh": {
+            "sz": 3.8,
+            "mar": 65,
+            "sin": 10,
+            "nuc": 20,
+            "ext": 5
+          },
+          "wf": {
+            "gov": 35,
+            "prv": 50,
+            "inc": 15
+          },
+          "sp": {
+            "disc": 70,
+            "cats": [
+              "food",
+              "housing",
+              "transport",
+              "education",
+              "healthcare",
+              "entertainment"
+            ],
+            "br": "mid",
+            "onl": 40
+          },
+          "dist": [
+            {
+              "ch": "Downtown Cairo",
+              "nat": "mixed",
+              "tier": "high"
+            },
+            {
+              "ch": "Zamalek",
+              "nat": "expatriates/upper class",
+              "tier": "high"
+            },
+            {
+              "ch": "Nasr City",
+              "nat": "middle class",
+              "tier": "mid"
+            },
+            {
+              "ch": "Shubra",
+              "nat": "working class",
+              "tier": "low"
+            },
+            {
+              "ch": "Helwan",
+              "nat": "working class/industrial",
+              "tier": "low"
+            },
+            {
+              "ch": "6th of October City",
+              "nat": "middle/upper class",
+              "tier": "mid/high"
+            }
+          ],
+          "cg": [
+            {
+              "g": "Cairenes (Native Egyptians)",
+              "p": 70,
+              "imp": "dominant cultural and social influence"
+            },
+            {
+              "g": "Upper Egyptians (Sa'idis)",
+              "p": 15,
+              "imp": "significant labor force, cultural diversity"
+            },
+            {
+              "g": "Expatriates (Western, Arab, Asian)",
+              "p": 10,
+              "imp": "economic, diplomatic, and educational contributions"
+            },
+            {
+              "g": "Bedouins",
+              "p": 2,
+              "imp": "traditional cultural practices"
+            },
+            {
+              "g": "Nubians",
+              "p": 3,
+              "imp": "unique cultural heritage and traditions"
+            }
+          ],
+          "name": "Cairo",
+          "pop_night": 9500000,
+          "pop_day": 11000000,
+          "pct_national": 9.5,
+          "nationality": {
+            "nationals_pct": 0.1,
+            "nationals_n": 0,
+            "expats": [
+              {
+                "origin": "South Asian",
+                "pct": 0.1,
+                "n": 0
+              },
+              {
+                "origin": "Arab Expat",
+                "pct": 0.2,
+                "n": 0
+              },
+              {
+                "origin": "Western",
+                "pct": 0.5,
+                "n": 0
+              },
+              {
+                "origin": "East Asian",
+                "pct": 0.1,
+                "n": 0
+              }
+            ]
+          },
+          "household": {
+            "avg_size": 3.8,
+            "married_pct": 65,
+            "single_pct": 10,
+            "nuclear_pct": 20,
+            "extended_pct": 5
+          },
+          "workforce": {
+            "govt_pct": 35,
+            "private_pct": 50,
+            "avg_hh_income": 15
+          },
+          "spending": {
+            "monthly_discretionary": 70,
+            "top_categories": [
+              "food",
+              "housing",
+              "transport",
+              "education",
+              "healthcare",
+              "entertainment"
+            ],
+            "brand_sensitivity": "mid",
+            "online_pct": 40
+          }
+        },
+        {
+          "n": "Alexandria",
+          "pn": 5200000,
+          "pd": 5500000,
+          "pct": 5.2,
+          "ppi": 60,
+          "nat": {
+            "kw": 0.2,
+            "sa": 0.2,
+            "ae": 0.3,
+            "we": 0.2,
+            "ea": 0.1,
+            "af": 0
+          },
+          "hh": {
+            "sz": 3.6,
+            "mar": 60,
+            "sin": 15,
+            "nuc": 20,
+            "ext": 5
+          },
+          "wf": {
+            "gov": 30,
+            "prv": 55,
+            "inc": 15
+          },
+          "sp": {
+            "disc": 65,
+            "cats": [
+              "food",
+              "housing",
+              "transport",
+              "tourism",
+              "education",
+              "healthcare"
+            ],
+            "br": "mid",
+            "onl": 35
+          },
+          "dist": [
+            {
+              "ch": "Montaza",
+              "nat": "upper/middle class",
+              "tier": "high"
+            },
+            {
+              "ch": "Smouha",
+              "nat": "middle class",
+              "tier": "mid"
+            },
+            {
+              "ch": "Gleem",
+              "nat": "expatriates/upper class",
+              "tier": "high"
+            },
+            {
+              "ch": "Bolkly",
+              "nat": "middle class",
+              "tier": "mid"
+            },
+            {
+              "ch": "El-Max",
+              "nat": "working class/industrial",
+              "tier": "low"
+            },
+            {
+              "ch": "Amreya",
+              "nat": "working class",
+              "tier": "low"
+            }
+          ],
+          "cg": [
+            {
+              "g": "Alexandrians (Native Egyptians)",
+              "p": 75,
+              "imp": "dominant cultural and social influence"
+            },
+            {
+              "g": "Upper Egyptians (Sa'idis)",
+              "p": 10,
+              "imp": "labor force, cultural diversity"
+            },
+            {
+              "g": "Expatriates (Greeks, Italians, Arabs, Westerners)",
+              "p": 10,
+              "imp": "historical and economic contributions"
+            },
+            {
+              "g": "Bedouins",
+              "p": 2,
+              "imp": "traditional cultural practices"
+            },
+            {
+              "g": "Nubians",
+              "p": 3,
+              "imp": "unique cultural heritage"
+            }
+          ]
+        },
+        {
+          "n": "Giza",
+          "pn": 4200000,
+          "pd": 4500000,
+          "pct": 4.2,
+          "ppi": 55,
+          "nat": {
+            "kw": 0.1,
+            "sa": 0.1,
+            "ae": 0.1,
+            "we": 0.1,
+            "ea": 0,
+            "af": 0
+          },
+          "hh": {
+            "sz": 4,
+            "mar": 70,
+            "sin": 10,
+            "nuc": 15,
+            "ext": 5
+          },
+          "wf": {
+            "gov": 25,
+            "prv": 60,
+            "inc": 15
+          },
+          "sp": {
+            "disc": 60,
+            "cats": [
+              "food",
+              "housing",
+              "transport",
+              "tourism",
+              "education",
+              "healthcare"
+            ],
+            "br": "low/mid",
+            "onl": 30
+          },
+          "dist": [
+            {
+              "ch": "Dokki",
+              "nat": "upper/middle class",
+              "tier": "high"
+            },
+            {
+              "ch": "Mohandessin",
+              "nat": "middle/upper class",
+              "tier": "mid/high"
+            },
+            {
+              "ch": "Haram",
+              "nat": "working/middle class",
+              "tier": "low/mid"
+            },
+            {
+              "ch": "Faisal",
+              "nat": "middle class",
+              "tier": "mid"
+            },
+            {
+              "ch": "Imbaba",
+              "nat": "working class",
+              "tier": "low"
+            },
+            {
+              "ch": "6th of October City",
+              "nat": "middle/upper class",
+              "tier": "mid/high"
+            }
+          ],
+          "cg": [
+            {
+              "g": "Gizans (Native Egyptians)",
+              "p": 80,
+              "imp": "dominant cultural and social influence"
+            },
+            {
+              "g": "Upper Egyptians (Sa'idis)",
+              "p": 12,
+              "imp": "labor force, cultural diversity"
+            },
+            {
+              "g": "Expatriates (Arabs, Westerners)",
+              "p": 5,
+              "imp": "economic and educational contributions"
+            },
+            {
+              "g": "Bedouins",
+              "p": 2,
+              "imp": "traditional cultural practices"
+            },
+            {
+              "g": "Nubians",
+              "p": 1,
+              "imp": "unique cultural heritage"
+            }
+          ]
+        }
+      ],
+      "malls": [
+        {
+          "name": "Mall of Arabia",
+          "city": "Cairo",
+          "tier": "Hyperregional",
+          "gla": 180000,
+          "anchors": [
+            "Carrefour",
+            "Vox Cinemas",
+            "Magic Planet"
+          ],
+          "footfall": 20000000,
+          "yr": 2010,
+          "note": "Largest mall in Egypt by GLA"
+        },
+        {
+          "name": "Cairo Festival City Mall",
+          "city": "Cairo",
+          "tier": "Hyperregional",
+          "gla": 165000,
+          "anchors": [
+            "IKEA",
+            "Hyper One",
+            "Cinépolis"
+          ],
+          "footfall": 18000000,
+          "yr": 2013,
+          "note": "Mixed-use development with residential and commercial components"
+        },
+        {
+          "name": "Citystars Mall",
+          "city": "Cairo",
+          "tier": "Hyperregional",
+          "gla": 150000,
+          "anchors": [
+            "Hypermarkets",
+            "Vox Cinemas",
+            "Magic Planet"
+          ],
+          "footfall": 17000000,
+          "yr": 2004,
+          "note": "One of the oldest and most established malls in Egypt"
+        },
+        {
+          "name": "Alexandria City Centre",
+          "city": "Alexandria",
+          "tier": "Regional",
+          "gla": 80000,
+          "anchors": [
+            "Carrefour",
+            "Vox Cinemas",
+            "Splash"
+          ],
+          "footfall": 8000000,
+          "yr": 2003,
+          "note": "Largest mall in Alexandria"
+        },
+        {
+          "name": "Mall of Egypt",
+          "city": "6th of October City",
+          "tier": "Hyperregional",
+          "gla": 165000,
+          "anchors": [
+            "Carrefour",
+            "Snow Park",
+            "Vox Cinemas"
+          ],
+          "footfall": 15000000,
+          "yr": 2017,
+          "note": "Features the first indoor snow park in Africa"
+        },
+        {
+          "name": "First Mall",
+          "city": "Giza",
+          "tier": "Community",
+          "gla": 30000,
+          "anchors": [
+            "Fathalla Market",
+            "Cinema"
+          ],
+          "footfall": 3000000,
+          "yr": 2005,
+          "note": "Popular community mall in Giza"
+        },
+        {
+          "name": "Dandy Mega Mall",
+          "city": "Alexandria",
+          "tier": "Regional",
+          "gla": 50000,
+          "anchors": [
+            "Hyper One",
+            "Cinema"
+          ],
+          "footfall": 5000000,
+          "yr": 2008,
+          "note": "Major retail destination in Alexandria"
+        }
+      ],
+      "cbds": [
+        {
+          "name": "Downtown Cairo",
+          "city": "Cairo",
+          "type": "Mixed-use",
+          "tenants": "Government offices, banks, retail, hotels, cultural institutions",
+          "sqm": 1000000
+        },
+        {
+          "name": "Garden City",
+          "city": "Cairo",
+          "type": "Financial",
+          "tenants": "Embassies, multinational corporations, banks, law firms",
+          "sqm": 500000
+        },
+        {
+          "name": "Smart Village",
+          "city": "Giza",
+          "type": "Financial",
+          "tenants": "IT companies, telecom firms, financial services, corporate offices",
+          "sqm": 3000000
+        },
+        {
+          "name": "Alexandria Business District",
+          "city": "Alexandria",
+          "type": "Mixed-use",
+          "tenants": "Government offices, banks, retail, hotels, port-related businesses",
+          "sqm": 800000
+        },
+        {
+          "name": "New Administrative Capital CBD",
+          "city": "New Administrative Capital",
+          "type": "Government",
+          "tenants": "Government ministries, embassies, financial institutions, corporate HQs",
+          "sqm": 5000000
+        }
+      ],
+      "souks": [
+        {
+          "name": "Khan el-Khalili",
+          "city": "Cairo",
+          "spec": "general",
+          "vendors": 900,
+          "hist": "Established in the 14th century, one of the oldest markets in the Middle East"
+        },
+        {
+          "name": "Souk al-Attarine",
+          "city": "Alexandria",
+          "spec": "spices",
+          "vendors": 200,
+          "hist": "Dates back to the 14th century, historically known for spices and perfumes"
+        },
+        {
+          "name": "Wikalat al-Balah",
+          "city": "Cairo",
+          "spec": "textiles",
+          "vendors": 150,
+          "hist": "Historic textile market established in the 17th century"
+        },
+        {
+          "name": "Souk al-Gumruk",
+          "city": "Cairo",
+          "spec": "general",
+          "vendors": 300,
+          "hist": "One of the oldest markets in Cairo, established in the 10th century"
+        },
+        {
+          "name": "Gold Souk",
+          "city": "Cairo",
+          "spec": "gold",
+          "vendors": 100,
+          "hist": "Located in the heart of Khan el-Khalili, known for gold and jewelry trade"
+        },
+        {
+          "name": "Souk al-Fish",
+          "city": "Alexandria",
+          "spec": "fish",
+          "vendors": 120,
+          "hist": "Traditional fish market serving Alexandria for centuries"
+        }
+      ],
+      "workforce_detail": {
+        "total_workforce": 29000000,
+        "nationals_pct": 95,
+        "nationals_count": 27550000,
+        "expats_pct": 5,
+        "expats_count": 1450000,
+        "expat_origins": [
+          {
+            "origin": "South Asian",
+            "pct": 40,
+            "count": 580000,
+            "typical_roles": "Construction labor, domestic work, retail, hospitality"
+          },
+          {
+            "origin": "Arab Expat",
+            "pct": 30,
+            "count": 435000,
+            "typical_roles": "Management, healthcare, education, engineering"
+          },
+          {
+            "origin": "Western",
+            "pct": 15,
+            "count": 217500,
+            "typical_roles": "Executive roles, consulting, oil & gas, NGOs"
+          },
+          {
+            "origin": "East Asian",
+            "pct": 10,
+            "count": 145000,
+            "typical_roles": "Manufacturing, textiles, technical roles"
+          },
+          {
+            "origin": "African",
+            "pct": 5,
+            "count": 72500,
+            "typical_roles": "Agriculture, informal trade, domestic work"
+          }
+        ],
+        "pay_scales": [
+          {
+            "tier": "Executive",
+            "currency": "EGP",
+            "national_range": "60000 - 200000",
+            "expat_range": "120000 - 350000",
+            "notes": "Includes bonuses and allowances, often tax-advantaged for expats"
+          },
+          {
+            "tier": "Senior Professional",
+            "currency": "EGP",
+            "national_range": "30000 - 70000",
+            "expat_range": "60000 - 150000",
+            "notes": "Engineers, doctors, senior managers; expats often receive housing allowances"
+          },
+          {
+            "tier": "Professional",
+            "currency": "EGP",
+            "national_range": "12000 - 30000",
+            "expat_range": "30000 - 70000",
+            "notes": "Mid-level roles in finance, IT, healthcare; expats may receive relocation support"
+          },
+          {
+            "tier": "Skilled Worker",
+            "currency": "EGP",
+            "national_range": "5000 - 12000",
+            "expat_range": "10000 - 25000",
+            "notes": "Technicians, electricians, mechanics; expats often in specialized industries"
+          },
+          {
+            "tier": "Semi-skilled",
+            "currency": "EGP",
+            "national_range": "2500 - 5000",
+            "expat_range": "4000 - 10000",
+            "notes": "Construction, retail, drivers; expats mostly in informal sectors"
+          },
+          {
+            "tier": "General Labour",
+            "currency": "EGP",
+            "national_range": "1500 - 3000",
+            "expat_range": "2000 - 5000",
+            "notes": "Agriculture, cleaning, unskilled labor; expats often South/Southeast Asian"
+          }
+        ],
+        "labour_law_notes": "Minimum wage: EGP 3,500/month (public sector); EGP 2,700/month (private sector as of 2024). Maximum 48-hour workweek, 21 days paid leave after 1 year. Social insurance mandatory for Egyptians; expats may opt out with proof of foreign coverage. Termination requires 2 months' notice or pay. Strikes heavily regulated; unions exist but are government-aligned."
+      },
+      "culture_deep": {
+        "hofstede": {
+          "power_distance": 70,
+          "individualism": 25,
+          "masculinity": 45,
+          "uncertainty_avoidance": 80,
+          "long_term_orientation": 7,
+          "indulgence": 4,
+          "pd_meaning": "Hierarchical structures in retail and labor markets require clear authority figures for consumer trust and decision-making.",
+          "idv_meaning": "Collectivist values drive group-based purchasing decisions, such as family or community bulk buying and shared loyalty programs.",
+          "mas_meaning": "Moderate masculinity suggests a balance between competitive pricing and quality, with emphasis on practical, durable goods over status symbols.",
+          "uai_meaning": "High uncertainty avoidance leads to preference for trusted brands, detailed product information, and risk-averse spending behaviors.",
+          "lto_meaning": "Short-term orientation prioritizes immediate needs and traditional values, limiting long-term investment in innovative or unproven products.",
+          "ivr_meaning": "Low indulgence reflects restrained spending on non-essentials, with savings and practicality prioritized over luxury or hedonic consumption."
+        },
+        "monthly_spending": [
+          {
+            "month": "January",
+            "month_num": 1,
+            "uplift_pct": 15,
+            "signal": "surge",
+            "key_events": [
+              "Coptic Christmas (7th)",
+              "New Year",
+              "Winter Sales"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "Clothing & Apparel",
+              "Electronics",
+              "Home Appliances"
+            ],
+            "contracting_categories": [
+              "Outdoor Furniture",
+              "Gardening Supplies"
+            ],
+            "digital_vs_physical": "55% digital",
+            "weather_effect": "cool, indoor shopping increases",
+            "marketing_activation": "Launch post-holiday clearance campaigns with bundled discounts on electronics and apparel.",
+            "notes": "High spending on gifts and personal indulgences post-New Year; Coptic Christmas drives food and gift purchases."
+          },
+          {
+            "month": "February",
+            "month_num": 2,
+            "uplift_pct": 5,
+            "signal": "neutral",
+            "key_events": [
+              "Valentine's Day (14th)"
+            ],
+            "income_tier": "Middle to High",
+            "top_categories": [
+              "Jewelry",
+              "Chocolates & Sweets",
+              "Dining Out"
+            ],
+            "contracting_categories": [
+              "DIY Tools",
+              "Automotive Parts"
+            ],
+            "digital_vs_physical": "50% digital",
+            "weather_effect": "mild, stable spending",
+            "marketing_activation": "Promote Valentine's Day gift sets with personalized messaging options for jewelry and chocolates.",
+            "notes": "Romantic spending peaks; mid-month sales for Valentine's Day drive category-specific uplift."
+          },
+          {
+            "month": "March",
+            "month_num": 3,
+            "uplift_pct": 10,
+            "signal": "surge",
+            "key_events": [
+              "Mother's Day (21st)",
+              "Sham El-Nessim (Spring Festival, date varies)"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "Flowers",
+              "Gifts & Accessories",
+              "Food & Beverages"
+            ],
+            "contracting_categories": [
+              "Winter Clothing",
+              "Heating Appliances"
+            ],
+            "digital_vs_physical": "52% digital",
+            "weather_effect": "warming, outdoor spending rises",
+            "marketing_activation": "Partner with florists and restaurants for Mother's Day bundles, including digital vouchers for dining.",
+            "notes": "Mother's Day and Sham El-Nessim drive food, gifts, and family outings; traditional foods like salted fish and onions see high demand."
+          },
+          {
+            "month": "April",
+            "month_num": 4,
+            "uplift_pct": 5,
+            "signal": "neutral",
+            "key_events": [
+              "Easter (date varies, Coptic and Western)",
+              "Ramadan preparations begin late April"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "Food & Groceries",
+              "Home Cleaning Products",
+              "Children's Toys"
+            ],
+            "contracting_categories": [
+              "Luxury Goods",
+              "Travel Packages"
+            ],
+            "digital_vs_physical": "48% digital",
+            "weather_effect": "hot, spending shifts to essentials",
+            "marketing_activation": "Introduce Ramadan pre-sale discounts on bulk food items and home essentials.",
+            "notes": "Easter drives food and toy sales; Ramadan preparations begin, with early stockpiling of groceries."
+          },
+          {
+            "month": "May",
+            "month_num": 5,
+            "uplift_pct": 30,
+            "signal": "surge",
+            "key_events": [
+              "Ramadan (date varies, typically May)",
+              "Eid al-Fitr (end of Ramadan)"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "Food & Groceries",
+              "Clothing & Apparel",
+              "Gifts & Electronics"
+            ],
+            "contracting_categories": [
+              "Alcohol",
+              "Non-Essential Services"
+            ],
+            "digital_vs_physical": "60% digital",
+            "weather_effect": "very hot, indoor shopping peaks",
+            "marketing_activation": "Launch Ramadan-themed digital campaigns with iftar meal kits and family gift bundles.",
+            "notes": "Highest spending month; food, clothing, and gifts dominate. Night markets and online sales surge during Ramadan."
+          },
+          {
+            "month": "June",
+            "month_num": 6,
+            "uplift_pct": 20,
+            "signal": "surge",
+            "key_events": [
+              "Eid al-Fitr (early June, if Ramadan ends late May)",
+              "Summer Sales Begin"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "Clothing & Apparel",
+              "Travel & Tourism",
+              "Electronics"
+            ],
+            "contracting_categories": [
+              "Winter Goods",
+              "Home Renovation"
+            ],
+            "digital_vs_physical": "58% digital",
+            "weather_effect": "extremely hot, travel and indoor spending increase",
+            "marketing_activation": "Promote Eid al-Fitr travel packages and summer fashion lines with early-bird discounts.",
+            "notes": "Eid al-Fitr drives gift-giving and travel; summer sales begin, with discounts on electronics and apparel."
+          },
+          {
+            "month": "July",
+            "month_num": 7,
+            "uplift_pct": 10,
+            "signal": "neutral",
+            "key_events": [
+              "Summer Vacations",
+              "Back-to-School Preparations Begin"
+            ],
+            "income_tier": "Middle to High",
+            "top_categories": [
+              "Travel & Tourism",
+              "School Supplies",
+              "Swimwear & Beachwear"
+            ],
+            "contracting_categories": [
+              "Winter Clothing",
+              "Heating Appliances"
+            ],
+            "digital_vs_physical": "55% digital",
+            "weather_effect": "peak heat, travel and indoor spending",
+            "marketing_activation": "Collaborate with travel agencies for last-minute summer getaway deals and back-to-school bundles.",
+            "notes": "Tourism peaks; early back-to-school shopping begins for uniforms and supplies."
+          },
+          {
+            "month": "August",
+            "month_num": 8,
+            "uplift_pct": 15,
+            "signal": "surge",
+            "key_events": [
+              "Back-to-School Season",
+              "Summer Sales End"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "School Supplies",
+              "Clothing & Apparel",
+              "Electronics"
+            ],
+            "contracting_categories": [
+              "Luxury Goods",
+              "Non-Essential Services"
+            ],
+            "digital_vs_physical": "60% digital",
+            "weather_effect": "extreme heat, indoor shopping",
+            "marketing_activation": "Offer back-to-school bundles with discounts on notebooks, uniforms, and tech gadgets for students.",
+            "notes": "Highest back-to-school spending; summer sales conclude with clearance discounts."
+          },
+          {
+            "month": "September",
+            "month_num": 9,
+            "uplift_pct": 5,
+            "signal": "neutral",
+            "key_events": [
+              "Coptic New Year (11th)",
+              "Start of Academic Year"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "School Supplies",
+              "Books & Stationery",
+              "Home Organization"
+            ],
+            "contracting_categories": [
+              "Summer Apparel",
+              "Travel Packages"
+            ],
+            "digital_vs_physical": "50% digital",
+            "weather_effect": "cooling, stable spending",
+            "marketing_activation": "Promote academic year essentials with student discounts and bulk purchase deals on stationery.",
+            "notes": "Final back-to-school purchases; Coptic New Year sees modest spending on food and small gifts."
+          },
+          {
+            "month": "October",
+            "month_num": 10,
+            "uplift_pct": 10,
+            "signal": "surge",
+            "key_events": [
+              "Eid al-Adha (date varies, typically October)",
+              "Wedding Season Begins"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "Livestock & Meat",
+              "Gifts & Jewelry",
+              "Clothing & Apparel"
+            ],
+            "contracting_categories": [
+              "Non-Essential Goods",
+              "Luxury Travel"
+            ],
+            "digital_vs_physical": "55% digital",
+            "weather_effect": "mild, outdoor spending increases",
+            "marketing_activation": "Launch Eid al-Adha campaigns with meat delivery services and family gift bundles.",
+            "notes": "Eid al-Adha drives livestock purchases and gift-giving; wedding season begins, boosting apparel and jewelry sales."
+          },
+          {
+            "month": "November",
+            "month_num": 11,
+            "uplift_pct": 20,
+            "signal": "surge",
+            "key_events": [
+              "Wedding Season",
+              "Black Friday (late November)",
+              "Sufi Moulids (local festivals)"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "Jewelry",
+              "Clothing & Apparel",
+              "Electronics"
+            ],
+            "contracting_categories": [
+              "Summer Goods",
+              "Outdoor Equipment"
+            ],
+            "digital_vs_physical": "65% digital",
+            "weather_effect": "cool, indoor shopping peaks",
+            "marketing_activation": "Introduce Black Friday digital campaigns with flash sales and limited-time discounts on electronics and fashion.",
+            "notes": "Wedding season peaks; Black Friday drives electronics and apparel sales; Sufi Moulids increase local spending on food and crafts."
+          },
+          {
+            "month": "December",
+            "month_num": 12,
+            "uplift_pct": 25,
+            "signal": "surge",
+            "key_events": [
+              "Christmas (25th)",
+              "New Year's Eve",
+              "Winter Sales"
+            ],
+            "income_tier": "All",
+            "top_categories": [
+              "Gifts & Toys",
+              "Clothing & Apparel",
+              "Food & Beverages"
+            ],
+            "contracting_categories": [
+              "Outdoor Furniture",
+              "Gardening Supplies"
+            ],
+            "digital_vs_physical": "60% digital",
+            "weather_effect": "cool, indoor shopping increases",
+            "marketing_activation": "Promote holiday gift guides with curated product bundles and last-minute delivery options.",
+            "notes": "Highest spending month after Ramadan; Christmas and New Year drive gifts, food, and apparel sales."
+          }
+        ],
+        "celebration_events": [
+          {
+            "n": "Coptic Christmas",
+            "d": "7/1",
+            "cat": "Religious",
+            "sig": "high",
+            "off": true,
+            "top": [
+              "retail",
+              "food",
+              "travel"
+            ],
+            "note": "Coptic Christians (10% of population) observe a strict fast before the holiday; retail sales spike in clothing, gifts, and food items like kahk and biscuits."
+          },
+          {
+            "n": "Revolution Day",
+            "d": "25/1",
+            "cat": "National",
+            "sig": "medium",
+            "off": true,
+            "top": [
+              "retail",
+              "entertainment",
+              "media"
+            ],
+            "note": "Public holiday with patriotic sales, discounts on electronics and home appliances, and increased media advertising."
+          },
+          {
+            "n": "Sinai Liberation Day",
+            "d": "25/4",
+            "cat": "National",
+            "sig": "low",
+            "off": true,
+            "top": [
+              "travel",
+              "retail"
+            ],
+            "note": "Limited commercial impact; some promotions on domestic travel and local retail in Sinai region."
+          },
+          {
+            "n": "Labour Day",
+            "d": "1/5",
+            "cat": "National",
+            "sig": "medium",
+            "off": true,
+            "top": [
+              "retail",
+              "automotive",
+              "services"
+            ],
+            "note": "Workers receive bonuses; increased spending on clothing, electronics, and automotive services; B2B gifting for employees."
+          },
+          {
+            "n": "Eid al-Fitr",
+            "d": "1/Shawwal",
+            "cat": "Religious",
+            "sig": "very_high",
+            "off": true,
+            "top": [
+              "retail",
+              "food",
+              "travel",
+              "fashion"
+            ],
+            "note": "Major shopping season; peak sales in clothing, electronics, home goods, and food (sweets, meat); travel bookings surge; malls extend hours."
+          },
+          {
+            "n": "Eid al-Adha",
+            "d": "10/Dhu al-Hijjah",
+            "cat": "Religious",
+            "sig": "very_high",
+            "off": true,
+            "top": [
+              "retail",
+              "food",
+              "livestock",
+              "travel"
+            ],
+            "note": "High demand for livestock, meat, and sacrificial services; retail sales spike in clothing, electronics, and home goods; travel for Hajj and family visits."
+          },
+          {
+            "n": "Islamic New Year",
+            "d": "1/Muharram",
+            "cat": "Religious",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "retail",
+              "food"
+            ],
+            "note": "Moderate spending on sweets, gifts, and home decorations; some promotions in retail and food sectors."
+          },
+          {
+            "n": "Prophet Muhammad's Birthday",
+            "d": "12/Rabi' al-Awwal",
+            "cat": "Religious",
+            "sig": "high",
+            "off": true,
+            "top": [
+              "retail",
+              "food",
+              "charity"
+            ],
+            "note": "Increased spending on sweets (e.g., ma'amoul), gifts, and charity donations; retail promotions in clothing and electronics."
+          },
+          {
+            "n": "Coptic Easter",
+            "d": "variable/April",
+            "cat": "Religious",
+            "sig": "high",
+            "off": true,
+            "top": [
+              "retail",
+              "food",
+              "travel"
+            ],
+            "note": "Coptic Christians observe a 55-day fast; post-Easter sales spike in clothing, gifts, and food items like feseekh and colored eggs."
+          },
+          {
+            "n": "Sham El-Nessim",
+            "d": "day after Coptic Easter",
+            "cat": "Social",
+            "sig": "high",
+            "off": true,
+            "top": [
+              "food",
+              "travel",
+              "entertainment"
+            ],
+            "note": "Ancient Egyptian spring festival; families picnic outdoors; high demand for traditional foods (feseekh, salted fish, onions, lettuce) and travel."
+          },
+          {
+            "n": "National Police Day",
+            "d": "25/1",
+            "cat": "National",
+            "sig": "low",
+            "off": true,
+            "top": [
+              "media",
+              "retail"
+            ],
+            "note": "Limited commercial impact; some patriotic promotions and media coverage."
+          },
+          {
+            "n": "Suez Victory Day",
+            "d": "24/10",
+            "cat": "National",
+            "sig": "low",
+            "off": true,
+            "top": [
+              "media",
+              "retail"
+            ],
+            "note": "Minimal commercial impact; some local promotions in Suez."
+          },
+          {
+            "n": "Armed Forces Day",
+            "d": "6/10",
+            "cat": "National",
+            "sig": "medium",
+            "off": true,
+            "top": [
+              "retail",
+              "media",
+              "entertainment"
+            ],
+            "note": "Patriotic sales, discounts on electronics and home appliances, and increased media advertising."
+          },
+          {
+            "n": "New Year's Day",
+            "d": "1/1",
+            "cat": "Seasonal",
+            "sig": "high",
+            "off": true,
+            "top": [
+              "retail",
+              "food",
+              "travel",
+              "entertainment"
+            ],
+            "note": "Peak sales in clothing, electronics, and luxury goods; New Year's Eve parties and travel bookings surge."
+          },
+          {
+            "n": "White Friday",
+            "d": "last Thursday-Nov",
+            "cat": "Commercial",
+            "sig": "very_high",
+            "off": false,
+            "top": [
+              "e-commerce",
+              "retail",
+              "electronics"
+            ],
+            "note": "Egypt's version of Black Friday; major online and offline discounts, especially on Noon and Amazon Egypt; peak e-commerce sales."
+          },
+          {
+            "n": "Ramadan",
+            "d": "1-29/Ramadan",
+            "cat": "Religious",
+            "sig": "very_high",
+            "off": false,
+            "top": [
+              "food",
+              "retail",
+              "entertainment",
+              "media"
+            ],
+            "note": "Nightly iftar and suhoor meals drive food sales; retail sales spike in clothing, electronics, and home goods; TV viewership peaks; malls extend hours."
+          },
+          {
+            "n": "Mother's Day",
+            "d": "21/3",
+            "cat": "Social",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "retail",
+              "flowers",
+              "restaurants"
+            ],
+            "note": "High demand for gifts, flowers, and dining out; promotions in retail and hospitality sectors."
+          },
+          {
+            "n": "Father's Day",
+            "d": "21/6",
+            "cat": "Social",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "retail",
+              "restaurants"
+            ],
+            "note": "Moderate spending on gifts and dining out; promotions in retail and hospitality."
+          },
+          {
+            "n": "Valentine's Day",
+            "d": "14/2",
+            "cat": "Social",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "retail",
+              "flowers",
+              "restaurants"
+            ],
+            "note": "High demand for gifts, flowers, and romantic dining; conservative backlash may limit public celebrations."
+          },
+          {
+            "n": "Back to School",
+            "d": "mid/9",
+            "cat": "Educational",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "retail",
+              "stationery",
+              "electronics"
+            ],
+            "note": "Peak sales in school supplies, uniforms, electronics, and tutoring services; private schools drive higher spending."
+          },
+          {
+            "n": "Graduation Season",
+            "d": "6-7",
+            "cat": "Educational",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "retail",
+              "photography",
+              "restaurants"
+            ],
+            "note": "High demand for graduation gowns, gifts, photography, and celebratory dining; private universities drive luxury spending."
+          },
+          {
+            "n": "Mid-Year Exams",
+            "d": "1-2",
+            "cat": "Educational",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "stationery",
+              "tutoring",
+              "cafes"
+            ],
+            "note": "Increased demand for study materials, tutoring, and café study sessions; parents spend on private lessons."
+          },
+          {
+            "n": "End-Year Exams",
+            "d": "5-6",
+            "cat": "Educational",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "stationery",
+              "tutoring",
+              "cafes"
+            ],
+            "note": "Peak demand for tutoring, study materials, and café study sessions; parents invest heavily in private lessons."
+          },
+          {
+            "n": "Summer Season",
+            "d": "6-9",
+            "cat": "Seasonal",
+            "sig": "very_high",
+            "off": false,
+            "top": [
+              "travel",
+              "retail",
+              "entertainment"
+            ],
+            "note": "Peak travel to coastal resorts (North Coast, Ain Sokhna, Hurghada); high sales in swimwear, sunscreen, and summer fashion; malls and cinemas see increased footfall."
+          },
+          {
+            "n": "Winter Season",
+            "d": "12-2",
+            "cat": "Seasonal",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "retail",
+              "travel",
+              "food"
+            ],
+            "note": "Increased sales in winter clothing, heaters, and hot beverages; domestic travel to Luxor and Aswan peaks."
+          },
+          {
+            "n": "Breast Cancer Awareness Month",
+            "d": "10",
+            "cat": "Health",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "retail",
+              "healthcare",
+              "media"
+            ],
+            "note": "Pink-themed promotions in retail; healthcare providers offer discounted screenings; media campaigns drive awareness."
+          },
+          {
+            "n": "Fitness January",
+            "d": "1",
+            "cat": "Health",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "fitness",
+              "retail",
+              "food"
+            ],
+            "note": "Gym memberships and fitness apparel sales spike; health food and supplement sales increase."
+          },
+          {
+            "n": "Corporate Gifting Season",
+            "d": "12",
+            "cat": "B2B",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "retail",
+              "luxury",
+              "hospitality"
+            ],
+            "note": "Businesses purchase gifts for clients and employees; high demand for luxury items, electronics, and corporate dining."
+          },
+          {
+            "n": "Government Budget Cycle",
+            "d": "7",
+            "cat": "B2B",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "construction",
+              "services",
+              "retail"
+            ],
+            "note": "Government tenders and contracts drive B2B spending in construction, IT, and services; retail sales to government agencies increase."
+          },
+          {
+            "n": "Wedding Season",
+            "d": "5-10",
+            "cat": "Social",
+            "sig": "very_high",
+            "off": false,
+            "top": [
+              "retail",
+              "jewelry",
+              "hospitality",
+              "photography"
+            ],
+            "note": "Peak demand for wedding dresses, jewelry, venues, catering, and photography; high spending on luxury items and gold."
+          },
+          {
+            "n": "Engagement Season",
+            "d": "3-4",
+            "cat": "Social",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "jewelry",
+              "retail",
+              "hospitality"
+            ],
+            "note": "High demand for engagement rings, jewelry, and celebratory dining; gold sales spike."
+          },
+          {
+            "n": "National Day of Egypt",
+            "d": "30/6",
+            "cat": "National",
+            "sig": "medium",
+            "off": true,
+            "top": [
+              "retail",
+              "media",
+              "entertainment"
+            ],
+            "note": "Patriotic sales and media campaigns; limited commercial impact compared to other national holidays."
+          },
+          {
+            "n": "Cairo International Film Festival",
+            "d": "11",
+            "cat": "Social",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "entertainment",
+              "media",
+              "hospitality"
+            ],
+            "note": "Increased spending on cinema tickets, dining, and hospitality; media coverage drives tourism."
+          },
+          {
+            "n": "Alexandria International Film Festival",
+            "d": "8",
+            "cat": "Social",
+            "sig": "low",
+            "off": false,
+            "top": [
+              "entertainment",
+              "media",
+              "hospitality"
+            ],
+            "note": "Local impact in Alexandria; moderate spending on entertainment and hospitality."
+          },
+          {
+            "n": "Cairo Fashion Week",
+            "d": "3 and 10",
+            "cat": "Social",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "fashion",
+              "retail",
+              "media"
+            ],
+            "note": "High demand for fashion items; media coverage drives retail sales and brand awareness."
+          },
+          {
+            "n": "Eid al-Ghadir",
+            "d": "18/Dhu al-Hijjah",
+            "cat": "Religious",
+            "sig": "low",
+            "off": false,
+            "top": [
+              "retail",
+              "food"
+            ],
+            "note": "Shia Muslim observance; limited commercial impact; some spending on sweets and gifts."
+          },
+          {
+            "n": "Mawlid al-Nabi Festivals",
+            "d": "12/Rabi' al-Awwal",
+            "cat": "Religious",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "food",
+              "entertainment",
+              "retail"
+            ],
+            "note": "Public celebrations with sweets, parades, and entertainment; increased spending on food and gifts."
+          },
+          {
+            "n": "Cairo Book Fair",
+            "d": "1-2",
+            "cat": "Educational",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "retail",
+              "publishing",
+              "education"
+            ],
+            "note": "Largest book fair in the Arab world; high demand for books, stationery, and educational materials."
+          },
+          {
+            "n": "Ramadan TV Premieres",
+            "d": "1/Ramadan",
+            "cat": "Commercial",
+            "sig": "very_high",
+            "off": false,
+            "top": [
+              "media",
+              "advertising",
+              "entertainment"
+            ],
+            "note": "TV viewership peaks; advertisers spend heavily on Ramadan-themed ads; new series and shows drive media revenue."
+          },
+          {
+            "n": "Fawry & Digital Payments Promotions",
+            "d": "11",
+            "cat": "Commercial",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "e-commerce",
+              "finance"
+            ],
+            "note": "Fintech companies offer discounts and cashback; drives digital payment adoption and e-commerce sales."
+          },
+          {
+            "n": "Amazon Egypt Prime Day",
+            "d": "7",
+            "cat": "Commercial",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "e-commerce",
+              "electronics",
+              "retail"
+            ],
+            "note": "Major online sales event; discounts on electronics, fashion, and home goods; drives e-commerce growth."
+          },
+          {
+            "n": "Noon Shopping Festival",
+            "d": "3",
+            "cat": "Commercial",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "e-commerce",
+              "retail"
+            ],
+            "note": "Noon.com's annual sales event; deep discounts on electronics, fashion, and home goods; boosts online shopping."
+          },
+          {
+            "n": "Jumia Black Friday",
+            "d": "11",
+            "cat": "Commercial",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "e-commerce",
+              "retail"
+            ],
+            "note": "Jumia's Black Friday sales; major discounts on electronics, fashion, and home goods; drives e-commerce traffic."
+          },
+          {
+            "n": "Souq (Amazon) Summer Sales",
+            "d": "6-8",
+            "cat": "Commercial",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "e-commerce",
+              "retail"
+            ],
+            "note": "Summer sales on Souq.com (now Amazon Egypt); discounts on electronics, fashion, and travel."
+          },
+          {
+            "n": "Eid al-Fitr Sales",
+            "d": "Shawwal",
+            "cat": "Commercial",
+            "sig": "very_high",
+            "off": false,
+            "top": [
+              "retail",
+              "e-commerce",
+              "fashion"
+            ],
+            "note": "Post-Eid sales clear inventory; deep discounts on clothing, electronics, and home goods; malls and online platforms see high traffic."
+          },
+          {
+            "n": "Eid al-Adha Sales",
+            "d": "Dhu al-Hijjah",
+            "cat": "Commercial",
+            "sig": "very_high",
+            "off": false,
+            "top": [
+              "retail",
+              "e-commerce",
+              "home goods"
+            ],
+            "note": "Post-Eid sales clear inventory; discounts on home goods, electronics, and fashion; livestock and meat sales decline post-Eid."
+          },
+          {
+            "n": "Golden Friday",
+            "d": "varies/11",
+            "cat": "Commercial",
+            "sig": "high",
+            "off": false,
+            "top": [
+              "e-commerce",
+              "retail"
+            ],
+            "note": "Egyptian e-commerce platforms offer mid-year sales; discounts on electronics, fashion, and home goods."
+          },
+          {
+            "n": "National Savings Day",
+            "d": "1/7",
+            "cat": "B2B",
+            "sig": "low",
+            "off": false,
+            "top": [
+              "finance",
+              "retail"
+            ],
+            "note": "Banks and financial institutions promote savings products; limited consumer impact."
+          },
+          {
+            "n": "Cairo ICT",
+            "d": "11",
+            "cat": "B2B",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "tech",
+              "services",
+              "B2B"
+            ],
+            "note": "Largest ICT event in Egypt; B2B networking, tech exhibitions, and government tenders drive business spending."
+          },
+          {
+            "n": "Big 5 Construct Egypt",
+            "d": "9",
+            "cat": "B2B",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "construction",
+              "B2B"
+            ],
+            "note": "Construction and infrastructure event; B2B networking and government contracts drive spending."
+          },
+          {
+            "n": "Egypt Petroleum Show (EGYPS)",
+            "d": "2",
+            "cat": "B2B",
+            "sig": "medium",
+            "off": false,
+            "top": [
+              "energy",
+              "B2B"
+            ],
+            "note": "Energy sector event; B2B networking, exhibitions, and government contracts drive business spending."
+          },
+          {
+            "n": "Cairo Water Week",
+            "d": "10",
+            "cat": "B2B",
+            "sig": "low",
+            "off": false,
+            "top": [
+              "environment",
+              "B2B"
+            ],
+            "note": "Limited commercial impact; government and NGO participation drives minimal B2B spending."
+          },
+          {
+            "n": "Egyptian Cotton Day",
+            "d": "10/3",
+            "cat": "Commercial",
+            "sig": "low",
+            "off": false,
+            "top": [
+              "retail",
+              "textiles"
+            ],
+            "note": "Promotions on Egyptian cotton products; limited consumer impact but boosts textile industry."
+          },
+          {
+            "n": "National Chocolate Day",
+            "d": "13/9",
+            "cat": "Commercial",
+            "sig": "low",
+            "off": false,
+            "top": [
+              "food",
+              "retail"
+            ],
+            "note": "Promotions on chocolates and sweets; limited but targeted consumer spending."
+          },
+          {
+            "n": "National Ice Cream Day",
+            "d": "20/6",
+            "cat": "Commercial",
+            "sig": "low",
+            "off": false,
+            "top": [
+              "food",
+              "retail"
+            ],
+            "note": "Promotions on ice cream and desserts; seasonal spike in sales during summer."
+          }
+        ]
+      }
+    }
+  }
+}
